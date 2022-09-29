@@ -55,6 +55,10 @@ function Container() {
         console.log(number.split(""));
     };
 
+    const deletedFunction = () => {
+        setNumber("")
+    };
+
     return (
         <div className="container">
             <div id="number">
@@ -67,6 +71,7 @@ function Container() {
                 <div onClick={numberFunction} className="button ">7</div>
                 <div onClick={numberFunction} className="button ">8</div>
                 <div onClick={numberFunction} className="button ">9</div>
+                <div onClick={deletedFunction} className="button ">C</div>
                 <div onClick={numberFunction} className="button zero">0</div>
                 <div onClick={equalFunction} className="button ">=</div>
             </div>

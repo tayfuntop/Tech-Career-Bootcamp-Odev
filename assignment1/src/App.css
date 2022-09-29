@@ -60,10 +60,6 @@ h1 {
   cursor: pointer;
 }
 
-.button.zero {
-  width: 120px;
-}
-
 .result {
   background-color: white;
   width: 250px;
