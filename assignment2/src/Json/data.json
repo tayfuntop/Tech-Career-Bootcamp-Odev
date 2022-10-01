@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "imgLink": "https://www.ubuy.com.gh/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvMzFxTVdPVm1PZkwuX1NTNDAwXy5qcGc.jpg",
+        "productName": "Ledger Nano X",
+        "productPrice": "249.99"
+    },
+    {
+        "id": "2",
+        "imgLink": "https://cdn.cimri.io/image/1000x1000/ledgernanosbitcoinczdan_56367075.jpg",
+        "productName": "Ledger Nano S",
+        "productPrice": "149.99"
+    },
+    {
+        "id": "3",
+        "imgLink": "https://cdn.cimri.io/image/1200x1200/bisikletlerfiyatlar_627337785.jpg",
+        "productName": "Bicycle",
+        "productPrice": "89.99"
+    },
+    {
+        "id": "4",
+        "imgLink": "https://target.scene7.com/is/image/Target/GUEST_05ff4f53-d0f2-43ab-9c89-c0cc4ffea6c8?wid=488&hei=488&fmt=pjpeg",
+        "productName": "Stroller",
+        "productPrice": "79.99"
+    },
+    {
+        "id": "5",
+        "imgLink": "https://m.media-amazon.com/images/I/4192fIV+naL._AC_SX450_.jpg",
+        "productName": "Dji Mavic Mini",
+        "productPrice": "899.99"
+    },
+    {
+        "id": "6",
+        "imgLink": "https://contents.mediadecathlon.com/p1282434/k$d012280bca8c76aa7bc45f21d189f911/sq/yetiskin-tenis-raketi-mavi-tr160-lite.jpg?format=auto&f=800x0",
+        "productName": "Racket",
+        "productPrice": "79.99"
+    }
+]
