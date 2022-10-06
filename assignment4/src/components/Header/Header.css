@@ -1,0 +1,48 @@
+.header {
+    height: 10vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px 0 30px;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+.photo img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;
+    transition: 300ms;
+}
+
+.photo img:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.right-info {
+    display: flex;
+}
+
+.right {
+    margin-right: 5px;
+    height: 40px;
+}
+
+.logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+    font-size: 36px;
+    cursor: pointer;
+    color: rgba(255, 255, 255, .6);
+    transition: 500ms;
+}
+
+.logo:hover {
+    color: white;
+}

@@ -1,0 +1,48 @@
+.register {
+    height: 75vh;
+    width: 100%;
+    background-color: rgba(255, 255, 255, .5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register .info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: solid 1px rgba(0, 0, 0, .5);
+    border-radius: 50px;
+    height: 500px;
+    width: 350px;
+}
+
+.register h1{
+    margin: -20px 0 50px 0; 
+}
+
+.register label {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.register input {
+    height: 30px;
+    width: 250px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0 10px;
+    text-align: center;
+    outline: none;
+    transition: 300ms;
+}
+
+.register input:hover {
+    transform: scale(1.03);
+}
+
+.register .button {
+    margin-top: 30px;
+}
