@@ -6,6 +6,10 @@
 
 ![Proje Görseli](assignment2/public/project.jpg)
  
+# Search App
+
+![Proje Görseli](assignment3/public/project.jpg)
+
 # Router Profile
 
 ![Proje Görseli](assignment4/public/project.jpg)
